@@ -160,7 +160,7 @@ def get_main_parser():
     )
     parser.add_argument(
         '--module_name', type=str,
-        default='assignment2'
+        default='assignment3'
     )
     parser.add_argument(
         '--output_root', type=str,
